@@ -24,4 +24,4 @@ Pinout:
 - - Need add: '#define RGB_BUILTIN 48'
 
 Schematic:
-![img](blob:null/026468f8-e5a6-42fe-b8e7-fb1bc63f3409)
+![img](https://raw.githubusercontent.com/rtek1000/YD-ESP32-23/main/schematic.png)
