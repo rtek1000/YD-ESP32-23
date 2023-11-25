@@ -12,7 +12,7 @@ Pinout:
 - Ref.: [VCC-GND Studio YD-ESP32-S3 (DevKitC 1 clone): high-resolution pinout and specs](https://mischianti.org/vcc-gnd-studio-yd-esp32-s3-devkitc-1-clone-high-resolution-pinout-and-specs/)
 
 Note:
-- The ‘ESP32 S3 DevKitC1 Clone’ board has a jumper called ‘RGB’, another called 'IN-OUT', and another called ‘USB-OTG’, both are open. But it may be necessary to solder the jumper for the devices to work.
+- The ‘ESP32 S3 DevKitC1 Clone’ board has a jumper called 'RGB', another called 'IN-OUT', and another called 'USB-OTG', all open. But it may be necessary to solder the jumper for the devices to work.
 - - The 'In-Out' jumper, when closed, bypasses one diode, making USB VBus power coming to 5Vin.
 - - If 5Vin is also connected to external source, it can get back-fed by USB, which is usually undesirable.
 - - But USB bus is protected by another diode, it cannot get back-fed by external source.
