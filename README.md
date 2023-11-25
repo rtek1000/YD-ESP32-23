@@ -22,3 +22,6 @@ Pinout:
 - - There is a BlinkRGB under the ESP32->GPIO examples that uses the onboard RGB LED.
 - - Ref.: https://forum.arduino.cc/t/esp32-s3-devkit-problems/1136923/4
 - - Need add: '#define RGB_BUILTIN 48'
+
+Schematic:
+![img](blob:null/026468f8-e5a6-42fe-b8e7-fb1bc63f3409)
