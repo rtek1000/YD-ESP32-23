@@ -1,4 +1,7 @@
 # YD-ESP32-23
+
+![img](https://raw.githubusercontent.com/rtek1000/YD-ESP32-23/main/yd_esp32_s3-23.jpg)
+
 The device uses the ESP32-S3 chip, which can be used for the test prototype of the Internet of Things application and can also be used for practical applications. It is equipped with two USBs, one is a hardware USB-to-serial port (CH343P WCH Qinheng), and the other is ESP32-S3 usb port.
 
 Ref.:
