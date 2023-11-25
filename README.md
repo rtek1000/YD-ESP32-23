@@ -23,5 +23,5 @@ Pinout:
 - - Ref.: https://forum.arduino.cc/t/esp32-s3-devkit-problems/1136923/4
 - - Need add: '#define RGB_BUILTIN 48'
 
-Schematic:
+Schematic (Jumpers were not included):
 ![img](https://raw.githubusercontent.com/rtek1000/YD-ESP32-23/main/schematic.png)
