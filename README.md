@@ -13,9 +13,6 @@ Pinout:
 
 Note:
 - The ‘ESP32 S3 DevKitC1 Clone’ board has a jumper called 'RGB', another called 'IN-OUT', and another called 'USB-OTG', all open. But it may be necessary to solder the jumper for the devices to work.
-- - The 'In-Out' jumper, when closed, bypasses one diode, making USB VBus power coming to 5Vin.
-- - If 5Vin is also connected to external source, it can get back-fed by USB, which is usually undesirable.
-- - But USB bus is protected by another diode, it cannot get back-fed by external source.
-- - When In-Out is open, 5Vin and USB VBus are separated by diode, USB power does not come to 5Vin.
+- - The 'In-Out' jumper, when closed, bypasses one diode, making USB VBus power coming to 5Vin. If 5Vin is also connected to external source, it can get back-fed by USB, which is usually undesirable. But USB bus is protected by another diode, it cannot get back-fed by external source. When In-Out is open, 5Vin and USB VBus are separated by diode, USB power does not come to 5Vin.
 - - USB-OTG jumper, when closed, connects together USB VBus lines from both USB-C connectors.
 - Ref.: [Third-party ESP32-S3 development boards 'IN-OUT' and 'USB-OTG' pads - what do they do?](https://www.reddit.com/r/esp32/comments/10rdngp/thirdparty_esp32s3_development_boards_inout_and/?rdt=39953)
