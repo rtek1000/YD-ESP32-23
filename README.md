@@ -10,7 +10,7 @@ The device uses the ESP32-S3 chip, which can be used for the test prototype of t
 Pinout:
 ![img](https://raw.githubusercontent.com/rtek1000/YD-ESP32-23/main/yd-esp32-s3-devkitc-1-clone-pinout.jpg)
 
-- [VCC-GND Studio YD-ESP32-S3 (DevKitC 1 clone): high-resolution pinout and specs](https://mischianti.org/vcc-gnd-studio-yd-esp32-s3-devkitc-1-clone-high-resolution-pinout-and-specs/?unapproved=15976&moderation-hash=4198347d9a899ffdd26a39347615d2e8#comment-15976)https://mischianti.org/vcc-gnd-studio-yd-esp32-s3-devkitc-1-clone-high-resolution-pinout-and-specs/?unapproved=15976&moderation-hash=4198347d9a899ffdd26a39347615d2e8#comment-15976
+- [VCC-GND Studio YD-ESP32-S3 (DevKitC 1 clone): high-resolution pinout and specs](https://mischianti.org/vcc-gnd-studio-yd-esp32-s3-devkitc-1-clone-high-resolution-pinout-and-specs/)
 
 Note:
 - The ‘ESP32 S3 DevKitC1 Clone’ board has a jumper called ‘RGB’, another called 'IN-OUT', and another called ‘USB-OTG’, both are open. But it may be necessary to solder the jumper for the devices to work.
