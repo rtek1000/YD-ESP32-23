@@ -21,4 +21,4 @@ Pinout:
 - The RGB LED did not work with common digitalWrite() commands. RGB LED only worked with neopixelWrite() commands.
 - - There is a BlinkRGB under the ESP32->GPIO examples that uses the onboard RGB LED.
 - - Ref.: https://forum.arduino.cc/t/esp32-s3-devkit-problems/1136923/4
-- - Need add: #define RGB_BUILTIN 48
+- - Need add: '#define RGB_BUILTIN 48'
