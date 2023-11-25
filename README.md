@@ -19,4 +19,4 @@ Note:
 - - But USB bus is protected by another diode, it cannot get back-fed by external source.
 - - When In-Out is open, 5Vin and USB VBus are separated by diode, USB power does not come to 5Vin.
 - - USB-OTG jumper, when closed, connects together USB VBus lines from both USB-C connectors.
-Ref.: [Third-party ESP32-S3 development boards 'IN-OUT' and 'USB-OTG' pads - what do they do?](https://www.reddit.com/r/esp32/comments/10rdngp/thirdparty_esp32s3_development_boards_inout_and/?rdt=39953)
+- Ref.: [Third-party ESP32-S3 development boards 'IN-OUT' and 'USB-OTG' pads - what do they do?](https://www.reddit.com/r/esp32/comments/10rdngp/thirdparty_esp32s3_development_boards_inout_and/?rdt=39953)
