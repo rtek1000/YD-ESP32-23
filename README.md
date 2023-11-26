@@ -24,6 +24,7 @@ Pinout:
 - - Arduino IDE: There is a BlinkRGB under the ESP32->GPIO examples that uses the onboard RGB LED.
 - - Ref.: https://forum.arduino.cc/t/esp32-s3-devkit-problems/1136923/4
 - - Need add: '#define RGB_BUILTIN 48'
+- - Avoid looking directly at the LED, place a sheet of paper or a piece of white plastic material over the LED to serve as a diffuser.
 
 Schematic (Jumpers were not included):
 ![img](https://raw.githubusercontent.com/rtek1000/YD-ESP32-23/main/schematic.png)
