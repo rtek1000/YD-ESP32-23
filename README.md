@@ -28,3 +28,9 @@ Pinout:
 
 Schematic (Jumpers were not included):
 ![img](https://raw.githubusercontent.com/rtek1000/YD-ESP32-23/main/schematic.png)
+
+-----
+
+Example of ESP32-S3 and support for mini keyboard with built-in touchpad: [here](https://github.com/rtek1000/ESP32-S3_USB_Host_HID_Keyboard)
+
+![img](https://raw.githubusercontent.com/rtek1000/ESP32-S3_USB_Host_HID_Keyboard/main/Mini%20Keyboard%20With%20Touchpad%20Built-in.jpg)
